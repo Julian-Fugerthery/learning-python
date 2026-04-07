@@ -1,0 +1,9 @@
+protein=0
+carbs=0
+fat=0
+protein+=30
+carbs+=50
+fat+=10
+protein+=20
+carbs+=30
+print('蛋白质',protein,'碳水',carbs,'脂肪',fat)
